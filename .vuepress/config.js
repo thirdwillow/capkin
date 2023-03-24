@@ -74,12 +74,12 @@ module.exports = {
             "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
             "link": "https://vuepress-theme-reco.recoluan.com"
         }],
-        "logo": "http://qin.itsban.cn/logo.png",
+        "logo": "https://gitee.com/capkin/typorta-drawing-bed-1/raw/master/Image/202303241950452.png",
         "search": true,
         "searchMaxSuggestions": 10,
         "lastUpdated": "Last Updated",
         "author": "capkin",
-        "authorAvatar": "http://qin.itsban.cn/logo.png",
+        "authorAvatar": "https://gitee.com/capkin/typorta-drawing-bed-1/raw/master/Image/202303241950452.png",
         "record": "首页",
         "startYear": "2020"
     },
