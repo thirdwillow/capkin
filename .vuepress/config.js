@@ -26,8 +26,8 @@ module.exports = {
         "mode": 'light',
         "subSidebar": 'auto',
         "valineConfig": {
-            "appId": 'aCSipIDPBNQTreNNNr4bT5R4-gzGzoHsz',
-            "appKey": 'zuQELzuRINaCxHgIozNrnwKO',
+            "appId": 'vkdbQdal5BcH3yeqHeKZ0KIc-gzGzoHsz',
+            "appKey": '4VXN9Zk35EWwzkiBBCHgoLfU',
         },
         "nav": [{
                 "text": "主页",
